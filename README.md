@@ -17,11 +17,11 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Hyperledger Fabric" width="26px" src="https://hyperledger-fabric.readthedocs.io/en/release-1.4/_images/hyperledger_fabric_logo_color.png" />][fabric]
+[<img align="left" alt="Hyperledger Fabric" width="65px" height="26px" src="https://wiki.hyperledger.org/download/attachments/2392070/Hyperledger_Fabric_Logo_Color.svg?version=1&modificationDate=1548883806000&api=v2" />][fabric]
 [<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][kubernetes]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
 [<img align="left" alt="Amazon Web Services" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />][aws]
-[<img align="left" alt="Google Cloud Platform" width="26px" src="https://www.gstatic.com/devrel-devsite/prod/vfe8af62599ec445552c3fb43608c37ff46463c9fce3b14d8ee63b2e71edddffd/cloud/images/cloud-logo.svg" />][gcp]
+[<img align="left" alt="Google Cloud Platform" width="70px" height="26px" src="https://www.gstatic.com/devrel-devsite/prod/vfe8af62599ec445552c3fb43608c37ff46463c9fce3b14d8ee63b2e71edddffd/cloud/images/cloud-logo.svg" />][gcp]
 [<img align="left" alt="Microsoft Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />][azure]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][vim]
@@ -38,6 +38,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 
 <br />
+<br />
 
 ---
 
@@ -45,7 +46,7 @@
 [aws]: https://aws.amazon.com/
 [gcp]: https://cloud.google.com/
 [azure]: https://azure.microsoft.com/
-[fabric]: https://hyperledger-fabric.readthedocs.io/
+[fabric]: https://wiki.hyperledger.org/display/fabric
 [kubernetes]: https://kubernetes.io/
 [docker]: https://www.docker.com/
 [vscode]: https://code.visualstudio.com/
