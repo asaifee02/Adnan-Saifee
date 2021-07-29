@@ -1,63 +1,73 @@
-### Hi there, I'm Adnan Saifee 👋
+<h1>👋 Hi, I'm Adnan Saifee</h1>
+<h2>I’m a <b>DevOps and Cyber Security</b> enthusiast!</h2>
+<h3 align="left">About me:</h3>
 
-## I'm a DevOps Enthusiast!!
+- 🥇 I’m a [**Certified Hyperledger Fabric Administrator (CHFA)**](https://training.linuxfoundation.org/certification/certified-hyperledger-fabric-administrator-chfa/) 
 
-- 🔭 I’m currently working on Kubernetes and Hyperledger Fabric
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other DevOps enthusiasts
-- 💬 Ask me about DevOps Tools and Practices and Hyperledger Fabric
-- 🥅 2020 Goals: Become a better DevOps Engineer!
-- ⚡ Fun fact: I love to play video games
+- 🔭 I’m currently working on **Kubernetes and Hyperledger Fabric**
 
-### Connect with me:
+- 🌱 I’m currently learning **DevOps, Cloud and Kubernetes**
 
-[<img align="left" alt="Adnan Saifee | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 👯 I’m looking to collaborate with other **DevOps enthusiasts**
 
-<br />
+- 💬 Ask me about **DevOps Tools and Practices and Cyber Security**
 
-### Languages and Tools:
+- 🥅 2021 Goals: Become a better **DevOps Engineer**!
 
-[<img align="left" alt="Hyperledger Fabric" width="65px" height="26px" src="https://wiki.hyperledger.org/download/attachments/2392070/Hyperledger_Fabric_Logo_Color.svg?version=1&modificationDate=1548883806000&api=v2" />][fabric]
-[<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][kubernetes]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
-[<img align="left" alt="Amazon Web Services" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />][aws]
-[<img align="left" alt="Google Cloud Platform" width="70px" height="26px" src="https://www.gstatic.com/devrel-devsite/prod/vfe8af62599ec445552c3fb43608c37ff46463c9fce3b14d8ee63b2e71edddffd/cloud/images/cloud-logo.svg" />][gcp]
-[<img align="left" alt="Microsoft Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />][azure]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][vim]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />][wordpress]
-[<img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />][json]
-[<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />][md]
-[<img align="left" alt="Bash" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][bash]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
+- 📫 How to reach me - **asaifee02@gmail.com**
 
-<br />
-<br />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/asaifee02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asaifee02" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+<a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+<a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="40" height="40"/>
+<a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
+<a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
+<a href="https://wiki.hyperledger.org/display/fabric" target="_blank"> <img src="https://hyperledger-fabric.readthedocs.io/en/release-2.2/_images/hyperledger_fabric_logo_color.png" alt="Hyperledger Fabric" width="90" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://wordpress.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" alt="WordPress" width="40" height="40"/>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40"/>
+<a href="http://www.vim.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="Vim" width="40" height="40"/>
+<a href="https://daringfireball.net/projects/markdown/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown" width="40" height="40"/>
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
 
-[linkedin]: https://linkedin.com/in/asaifee02
-[aws]: https://aws.amazon.com/
-[gcp]: https://cloud.google.com/
-[azure]: https://azure.microsoft.com/
-[fabric]: https://wiki.hyperledger.org/display/fabric
-[kubernetes]: https://kubernetes.io/
-[docker]: https://www.docker.com/
-[vscode]: https://code.visualstudio.com/
-[vim]: http://www.vim.org/
-[sql]: https://www.codecademy.com/learn/learn-sql
-[mysql]: https://www.mysql.com/
-[postgresql]: https://www.postgresql.org/
-[mongodb]: https://www.mongodb.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/
-[wordpress]: https://wordpress.org/
-[json]: http://www.json.org/
-[md]: https://daringfireball.net/projects/markdown/
-[bash]: https://www.gnu.org/software/bash/
-[terminal]: https://en.wikipedia.org/wiki/Computer_terminal
+<table align="center" border="0">
+  <tr>
+    <td>
+      <p><img align="center" src="https://github-readme-stats-adnan-saifee.vercel.app/api?username=Adnan-Saifee&show_icons=true&theme=radical&locale=en&hide=prs,contribs" alt="Adnan Saifee's GitHub Stats" /></p>
+    </td>
+    <td>
+      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adnan-Saifee&theme=dark" alt="Adnan Saifee's Streak Stats" /></p>
+    </td>
+  </tr>
+</table>
+
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adnan-Saifee&label=Profile%20Views&color=0eb419&style=flat" alt="Adnan Saifee's Profile Views" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adnan-Saifee" alt="Adnan Saifee's GitHub Trophies" /></a> </p>-->
+
+<!--<p><img align="left" src="https://github-readme-stats-adnan-saifee.vercel.app/api/top-langs?username=Adnan-Saifee&show_icons=true&theme=radical&locale=en&layout=compact" alt="Adnan Saifee's Most Used Languages" /></p>-->
+
+<!--[![Adnan's Wakatime Stats](https://github-readme-stats-adnan-saifee.vercel.app/api/wakatime?username=Adnan-Saifee)](https://github.com/Adnan-Saifee/github-readme-stats)-->
