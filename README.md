@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Kubernetes and Hyperledger Fabric**
 
-- 🌱 I’m currently learning **DevOps, Cloud and Kubernetes**
+- 🌱 I’m currently learning **DevOps, Cloud, Automation and Kubernetes**
 
 - 👯 I’m looking to collaborate with other **DevOps enthusiasts**
 
-- 💬 Ask me about **DevOps Tools and Practices and Cyber Security**
+- 💬 Ask me about **DevOps Tools & Practices and Cyber Security**
 
 - 🥅 2021 Goals: Become a better **DevOps Engineer**!
 
