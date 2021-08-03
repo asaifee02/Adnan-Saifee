@@ -56,10 +56,10 @@
 <table align="center" border="0">
   <tr>
     <td>
-      <p><img align="center" src="https://github-readme-stats-adnan-saifee.vercel.app/api?username=Adnan-Saifee&show_icons=true&theme=radical&locale=en&hide=prs,contribs" alt="Adnan Saifee's GitHub Stats" /></p>
+      <p><img align="center" src="https://github-readme-stats-adnan-saifee.vercel.app/api?username=Adnan-Saifee&show_icons=true&theme=radical&locale=en&count_private=true&include_all_commits=true" alt="Adnan Saifee's GitHub Stats" /></p>
     </td>
     <td>
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adnan-Saifee&theme=dark" alt="Adnan Saifee's Streak Stats" /></p>
+      <p><img align="center" src="https://github-readme-streak-stats-as.herokuapp.com/?user=Adnan-Saifee&theme=neon-palenight&background=000000" alt="Adnan Saifee's Streak Stats" /></p>
     </td>
   </tr>
 </table>
